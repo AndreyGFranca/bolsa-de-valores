@@ -1,4 +1,4 @@
-package br.com.zgsolucoes.bolsavalores.bolsavalores;
+package br.com.zgsolucoes.bolsavalores;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

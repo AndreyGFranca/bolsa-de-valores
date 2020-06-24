@@ -1,4 +1,4 @@
-package br.com.zgsolucoes.bolsavalores.bolsavalores.repository;
+package br.com.zgsolucoes.bolsavalores.repository;
 
 import org.springframework.stereotype.Repository;
 

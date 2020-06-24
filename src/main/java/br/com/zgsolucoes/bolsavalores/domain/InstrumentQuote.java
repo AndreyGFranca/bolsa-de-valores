@@ -1,4 +1,4 @@
-package model;
+package br.com.zgsolucoes.bolsavalores.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
