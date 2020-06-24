@@ -14,4 +14,15 @@ public class AtivoService {
     }
 
 
+    public void obterRentabilidade(String ativo) {
+        //TODO: implementar
+    }
+
+    public void isOperacaoShort() {
+
+    }
+
+    public void isOperacaoLong() {
+
+    }
 }
