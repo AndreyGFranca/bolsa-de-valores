@@ -8,4 +8,5 @@ import br.com.zgsolucoes.bolsavalores.domain.UserTrade;
 @Repository
 public interface UserTradeRepository extends JpaRepository<UserTrade, Long> {
 
+
 }
